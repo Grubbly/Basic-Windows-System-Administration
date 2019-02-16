@@ -77,6 +77,8 @@ Edit the policy settings:
 ### DNS Manager
 Holds HOST records (computers on the network) and aliases (CNAME) for hosts (```popcorn.microrave.net```)
 
+![DNSManager](DNSManager.PNG)
+
 ## Firewalls
 
 ### Windows Advanced Firewall
