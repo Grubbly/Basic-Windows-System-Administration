@@ -1,8 +1,6 @@
 # Basic Windows Auditing
 Using Windows Server 2012
 
-Based on: https://youtu.be/I8mfnOOpe4E
-
 ## Server Manager
 Quickest place to identify services, install new ones, or reconfigure existing ones.
 
@@ -89,3 +87,6 @@ Get an in depth view of processes and what child processes they are running. Thi
 
 ## Zenmap
 A GUI for nmap that can be used on windows. This is handy if you need to whip up a quick network diagram with all your hosts on it.
+
+
+See https://youtu.be/I8mfnOOpe4E for more.
